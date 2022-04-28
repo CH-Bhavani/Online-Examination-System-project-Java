@@ -1,5 +1,5 @@
 
-# Online Exam Project in Java Swing without database
+# Online Exam Project in Java Swing without  using database
 
 
   In this project, there are given 10 questions to play. 
